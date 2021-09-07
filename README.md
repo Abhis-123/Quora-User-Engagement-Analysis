@@ -19,3 +19,9 @@ Suggestion: From the plot I can say that we have to do research that why female 
 This is a plot of control group and we can see that female and unknown contributors are not loving the 
 old UI. 
 
+![Pre and Post experiment effect old UI](images\5.png)
+The plot below is of treatment group and here we can see that every type of user is loving the new UI. 
+Most of users are spending more time on website.
+In this case I have suggestion that we should push this to production as it is not having any bad effect on 
+any type of users.
+
