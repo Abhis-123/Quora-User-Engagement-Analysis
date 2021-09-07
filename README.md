@@ -14,3 +14,8 @@ average time is average time spent on the website by a user. The plot below show
 unknown’s users are loving the Quora already (as compared to females) and this new UI acted as 
 catalyst for their time spent on Quora. 
 ![daily average time vs gender](images\2.png)
+
+Suggestion: From the plot I can say that we have to do research that why female users are less enagaged
+This is a plot of control group and we can see that female and unknown contributors are not loving the 
+old UI. 
+
