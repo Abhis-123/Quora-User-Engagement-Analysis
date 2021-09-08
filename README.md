@@ -49,17 +49,17 @@ Suggestion: From the plot I can say that we have to do research that why female 
 This is a plot of control group and we can see that female and unknown contributors are not loving the 
 old UI. 
 
-![Pre and Post experiment effect old UI](images\5.png)
+![Pre and Post experiment effect old UI](./images/5.png)
 The plot below is of treatment group and here we can see that every type of user is loving the new UI. 
 Most of users are spending more time on website.
 In this case I have suggestion that we should push this to production as it is not having any bad effect on 
 any type of users.
 
-![Pre and Post experiment effect new UI](images\1.png)
+![Pre and Post experiment effect new UI](./images/1.png)
 The treatment group had very less active mean time as compared to control and from t-test I found that 
 they were not looking from same distribution. So I have suggestion that selection of control and 
 treatment group can be more randomized so that we can have control and treatment group from same 
 distribution at the start of experiment.
 
 ## Common plot for treatment group 
-![Pre and Post experiment effect new UI](images\6.png)
+![Pre and Post experiment effect new UI](./images/6.png)
